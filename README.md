@@ -6,10 +6,10 @@ patterns of all variables and Our analysis provides useful information for trave
 hosts in the city and also provides some best insights for Airbnb business.
 
 **Problem Statement**
-  (1) Find Distribution Of Airbnb Bookings Price Range.
-  (2) Find Total Listing/Property count in Each Neighborhood Group in NYC.
-  (3) Find Average Price Of listings/property in each Neighborhood Groups and also Neighborhoods.
-  (4) Find Top Neighborhoods and Hosts by Listing/property in enti
+1. Find Distribution Of Airbnb Bookings Price Range.
+(2) Find Total Listing/Property count in Each Neighborhood Group in NYC.
+(3) Find Average Price Of listings/property in each Neighborhood Groups and also Neighborhoods.
+(4) Find Top Neighborhoods and Hosts by Listing/property in enti
 (5) Find the Number Of Active Hosts Per Location by Each Neighborhood Groups.
 (6) Find Total Counts Of Each Room Types in entire NYC.
 (7) Find Stay Requirement counts by Minimum Nights.
